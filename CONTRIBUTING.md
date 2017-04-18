@@ -1,11 +1,11 @@
 ## How to contribute
-New symbol sets and fixes to current symbol sets are essential for keeping Inkscape Open Symbols a great resource for developers and designers. We simply can't get enough time to support all the amazing available SVG resources out there. To keep it easy as possible to contribute to this repository, please follow a few guidelines. Please don't hesitate to contact me for any help or mentorship.
+New symbol sets and fixes to current symbol sets are essential for keeping Inkscape Open Symbols a great resource for developers and designers. We simply can't get enough time to support all the amazing available SVG resources out there. To keep it as easy as possible to contribute to this repository, please follow a few guidelines. Please don't hesitate to contact me for any help or mentorship.
 
 ## License
 This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.
 
 ## Getting Started
-To create a new symbol set is not required any advanced technical knowledge, although knowledge of basic gulp, npm and SVG will be very useful.
+To create a new symbol set, you do not require any advanced technical knowledge, although knowledge of basic gulp, npm and SVG will be very useful.
 
 Please ensure that you have already installed:
 - [npm](https://www.npmjs.com/)
