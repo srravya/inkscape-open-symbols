@@ -92,7 +92,7 @@ panel system/notification area, and possibly menu icons.
 * SJJB Map Icons **Transport** Set
 * SJJB Map Icons **Water** Set
 
-###Symbol sets licenses
+## Symbol sets licenses
 
 - [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v2+](https://www.gnu.org/licenses/gpl-2.0.en.html)
 - [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
